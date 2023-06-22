@@ -1,0 +1,158 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.logindiv {
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    padding: 2rem;
+    width: 27rem;
+    border-radius: 15px !important;
+}
+
+.textalign {
+    float: left;
+}
+
+.inputRounded .MuiOutlinedInput-root {
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.loginbtn {
+    background: linear-gradient(to right, #000046, #1cb5e0);
+    color: #fff !important;
+    border-radius: 10px !important;
+}
+
+.pagebackground{
+    background: linear-gradient(to bottom,  #1cb5e0, #000046) !important;
+    min-height: 120vh !important;
+    padding-left: 20rem;
+}
+
+.sidebarbox {
+    position: fixed;
+    background-color: #fff;
+    height: 100vh;
+    width: 20rem;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.sidebarImg{
+    margin-top: 2rem;
+    width: 15rem;
+    margin-left: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.pageHeader {
+    font-weight: bold !important;
+    font-size: 2.3rem !important;
+    color: #fff !important;
+}
+
+.formHeader {
+    font-size: 1.7rem !important;
+    margin-left: 2rem !important;
+}
+
+.css-19mk8g1-MuiInputBase-root-MuiFilledInput-root:before,.css-g9m4e0-MuiInputBase-root-MuiFilledInput-root:before {
+    border-bottom: 0px solid !important;
+}
+
+.filledsearch, .MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root , .MuiInputBase-root.MuiFilledInput-root.MuiFilledInput-underline.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-19mk8g1-MuiInputBase-root-MuiFilledInput-root{
+    border-radius: 30px !important;
+    width: -webkit-fill-available;
+    background-color: #fff !important;
+    border: 0px solid !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-radius: 20px !important;
+}
+
+.svgiconcss {
+    width: 3rem;
+    font-size: 1.7rem;
+}
+
+.tablepaper {
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 20px !important;
+}
+
+.newtablepaper {
+    padding: 2rem;
+    /* margin: 2rem; */
+    border-radius: 20px !important;
+}
+
+.formpaper{
+    margin: 2rem;
+    border-radius: 20px !important;
+}
+
+.data-table-extensions > .data-table-extensions-filter {
+    display: none !important;
+}
+
+span.MuiButton-startIcon.MuiButton-iconSizeMedium.css-1d6wzja-MuiButton-startIcon {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.logoimage {
+    margin-bottom: 20px;
+    width: 22rem;
+    margin-left: 2rem;
+}
+
+.formtextfield {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    padding-top: 1rem !important; 
+}
+
+.requestImg {
+    width: -webkit-fill-available !important;
+    border-radius: 20px !important;
+    height: 10rem !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.requestImg2 {
+    width: -webkit-fill-available !important;
+    border-radius: 20px !important;
+    height: 20rem !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.divclass{
+    border: 1px solid #000000 !important;
+    height: 10rem !important;
+    margin-top: 10rem !important;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root.Mui-disabled{
+    color: rgba(0, 0, 0, 0.26) !important;
+    background-color: rgba(0, 0, 0, 0.12) !important;
+    background: rgba(0, 0, 0, 0.12) !important;
+}
+
+label#demo-simple-select-label {
+    margin-top: -0.5rem !important;
+}
+
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root.Mui-disabled .MuiOutlinedInput-notchedOutline{
+    background: rgba(0, 0, 0, 0.07) !important;
+}
